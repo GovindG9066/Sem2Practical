@@ -32,6 +32,6 @@ public class EmployeeDetails {
         emp e1=new emp("Krishna",102,500);
         e1.displayempdetails();
         e1.bonus();
-        e1.displayempdetails();
+
     }
 }
