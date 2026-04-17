@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sem2Practical.iml" filepath="$PROJECT_DIR$/Sem2Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StarPatterns.iml" filepath="$PROJECT_DIR$/StarPatterns.iml" />
     </modules>
   </component>
 </project>

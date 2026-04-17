@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9fb4ec6-b556-49ff-adad-4df2b57f5434" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GovindG9066&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GovindG9066/Sem2Practical.git&quot;,
+    &quot;accountId&quot;: &quot;6f57f6ad-e830-4a26-85ae-7bccb979249b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39dzvajL82wz5hmjDyJ7zxXOFQv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllTriangle.executor": "Run",
+    "Application.ArrayList1.executor": "Run",
+    "Application.BankAccount (1).executor": "Run",
+    "Application.BankAccount (2).executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.BharatKaNaksha.executor": "Run",
+    "Application.BookShop (1).executor": "Run",
+    "Application.BookShop.executor": "Run",
+    "Application.Both_Flip_SRAT_AND_Flip_UpSideDown_SRAT.executor": "Run",
+    "Application.Both_SRAT_AND_UpSideDown_SRAT.executor": "Run",
+    "Application.Cal (1).executor": "Run",
+    "Application.Cal (2).executor": "Run",
+    "Application.Cal.executor": "Run",
+    "Application.ClgAddData.executor": "Run",
+    "Application.College_Test.executor": "Run",
+    "Application.Demo (1).executor": "Run",
+    "Application.Demo (2).executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.EmployeeDetails (1).executor": "Run",
+    "Application.EmployeeDetails (2).executor": "Run",
+    "Application.EmployeeDetails.executor": "Run",
+    "Application.Feb_12.SetOperations.executor": "Run",
+    "Application.FlipSimpleRAT.executor": "Run",
+    "Application.FlipSimpleUpSideDownRAT.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Inter.executor": "Run",
+    "Application.MapOperations.executor": "Run",
+    "Application.Overloading.executor": "Run",
+    "Application.ProductMarket.executor": "Run",
+    "Application.SetOperations.executor": "Run",
+    "Application.SimpleRightAngle.executor": "Run",
+    "Application.SimpleUpSideDownRAT.executor": "Run",
+    "Application.Student1 (1).executor": "Run",
+    "Application.Student1.executor": "Run",
+    "Application.StudentAddressDemo.executor": "Run",
+    "Application.Studentaccess.executor": "Run",
+    "Application.UsingVarInstedArraylist.executor": "Run",
+    "Application.WithDiagonalSimplePyramidTriangle.executor": "Run",
+    "Application.WithDiagonalUpSideDownPyramidTriangle.executor": "Run",
+    "Application.WithoutDiagonalSimplePyramidTriangle.executor": "Run",
+    "Application.WithoutDiagonalSimpleUpSideDownPyramidTriangle.executor": "Run",
+    "Application.child (1).executor": "Run",
+    "Application.child (2).executor": "Run",
+    "Application.child.executor": "Run",
+    "Application.lambdafunArrayList.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.twoListOperation.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/MCA2025/JavaJSP",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Hello">
+    <configuration name="BharatKaNaksha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mar_12.BharatKaNaksha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mar_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Mar_12.Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mar_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mar_12.MapOperations" />
+      <module name="Sem2Practical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mar_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mar_12.SetOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mar_12.SetOperations" />
+      <module name="Sem2Practical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mar_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoListOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mar_10.twoListOperation" />
+      <module name="Sem2Practical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mar_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.BharatKaNaksha" />
+        <item itemvalue="Application.MapOperations" />
+        <item itemvalue="Application.Mar_12.SetOperations" />
+        <item itemvalue="Application.twoListOperation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9fb4ec6-b556-49ff-adad-4df2b57f5434" name="Changes" comment="" />
+      <created>1771040966348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771040966348</updated>
+    </task>
+    <servers />
+  </component>
+</project>
